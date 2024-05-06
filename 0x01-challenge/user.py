@@ -26,5 +26,6 @@ class User():
 
 if __name__ == "__main__":
     """ runs the code """
-    u = User("john@snow.com")
+    u = User()
+    u.email = "john@snow.com"
     print(u.email)
