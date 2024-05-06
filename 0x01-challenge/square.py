@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" module of a square """
+
 
 class square():
 """ Represents a Square """    
