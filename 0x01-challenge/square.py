@@ -3,7 +3,7 @@
 
 
 class square():
-""" Represents a Square """    
+    """ Represents a Square """    
     
     width = 0
     height = 0
